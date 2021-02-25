@@ -1,1 +1,1 @@
-![Alt Text](https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif)
+<img src='https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif' />
